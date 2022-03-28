@@ -2370,6 +2370,8 @@ input, select, textarea {
 					max-width: 32em;
 					margin-left: auto !important;
 					margin-right: auto !important;
+					display: flex;
+					flex: 1;
 				}
 
 				.box.style2 {
